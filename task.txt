@@ -1,0 +1,15 @@
+1.Write a program to take input from user a print the data in following format.
+
+
+Name:ABC(Any Name)
+Class:12th
+Marks: physics:90,chemistry:93,maths:96
+
+
+Variables which you take from user are:	Name,Class,Marks=>Physics,Chemistry,Maths,
+
+And Finally calculate the percentage of that Student and then print another message:
+
+Your Percentage is: 93.00(for eg.)
+
+Note: Percentage should be in float and rounded up to 2 decimal points.
